@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @jhonnata2211
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Olá! Eu sou Jhonnata Dutra
 
-<!---
-jhonnata2211/jhonnata2211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->56167133
+💻 **Desenvolvedor iniciante** apaixonado por tecnologia e programação.
+
+🚀 Habilidades:
+- Linguagens: **Python e JavaScript**
+- Ferramentas: **Git, GitHub, VS Code e Selenium**
+
+📚 Atualmente aprendendo:
+- Desenvolvimento Web
+- APIs REST
+- Banco de Dados
+
+📂 Projetos em destaque:
+      (Em edição)
+
+🌐 Como me encontrar:
+- GitHub: https://github.com/jhonnata2211
+
