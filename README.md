@@ -12,7 +12,9 @@
 - Banco de Dados
 
 📂 Projetos em destaque:
-      (Em edição)
+
+- Site Responsivo
+- Calculadora responsiva 
 
 🌐 Como me encontrar:
 - GitHub: https://github.com/jhonnata2211
